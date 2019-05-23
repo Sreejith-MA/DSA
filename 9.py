@@ -1,5 +1,5 @@
-a=int(input())
-c=int(input())
+c=input()
+c=int(c[2])
 d=input()
 e=0
 d=d.split(" ")
