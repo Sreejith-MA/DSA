@@ -1,5 +1,5 @@
-a=input()
-a=a.split(' ')
-v= [int(i) for i in a]
-c=max(v)
-print(c)
+y=input()
+y=y.split(' ')
+u= [int(j) for j in y]
+o=max(u)
+print(o)
