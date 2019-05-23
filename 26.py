@@ -1,7 +1,7 @@
-a=int(input())
-s=input()
-s=s.split(' ')
-c= [int(i) for i in s]
-c.sort()
-for i in range (c):
-    print(c[i],end=" ")
+q=int(input())
+w=input()
+w=w.split(' ')
+e= [int(i) for i in w]
+e.sort()
+for i in range (q):
+    print(e[i],end=" ")
