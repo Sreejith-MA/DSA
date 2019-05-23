@@ -1,0 +1,5 @@
+a=input()
+a=list(a)
+c=len(a)
+a.sort()
+print(a[c-1])
