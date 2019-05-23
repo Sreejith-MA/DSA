@@ -1,3 +1,4 @@
+n=input()
 a=input()
 a=a.split(" ")
 c=len(a)
