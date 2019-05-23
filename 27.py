@@ -15,4 +15,4 @@ else:
 if (d>0):
     print("yes")
 else:
-    print("no")
+    print("No")
