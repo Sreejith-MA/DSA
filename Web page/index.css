@@ -1,0 +1,111 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+html{
+	background:black;
+}
+body{
+	background:red;
+	width:800px;
+	height:600px;
+	margin:10px auto;
+}
+#header{
+	background:green;
+	width:100%;
+	height:200px;
+}
+#navigation{
+	background:black;
+	width:100%;
+	height:30px;
+}
+#container{
+	background:gray;
+	width:100%;
+	height:740px;
+}
+#footer{
+	background:white;
+	width:100%;
+	height:30px;
+}
+#sree li{
+	list-style-type:none;
+	display:inline;
+	padding-left:20px;
+	padding-right:15px;
+	line-height:30px;
+	float : right;
+}
+#sree li a{
+	text-decoration:none;
+	color:white;
+}
+#sree li a:hover{
+	color:blue;
+}
+#Header{
+	width:25%;
+	height:100%;
+	background:black;
+	float:left;
+	
+}
+#Logo{
+	width:75%;
+	height:100%;
+	background:blue;
+	float:right;
+	
+}
+
+#Header h1{
+	color:gray;
+	padding-top:5px;
+	padding-left:30px;
+	
+}
+#Header h6{
+	color:yellow;
+	padding-top:15px;
+	padding-left:50px;
+	
+}
+#imglogo{
+	width:100%;
+	height:75%;
+	
+}
+#imgicon{
+	padding-top:15px;
+	padding-left:20px;
+	width:70%;
+	height:35%;
+	
+}
+#footer{
+	padding-top:15px;
+}
+#login{
+	min-height:250px;
+	width:500px;
+	margin-left:150px;
+	margin-top:25px;
+}
+#usertable tr td{
+	padding:10px;
+}
+#container h1{
+	padding-top:10px;
+}
+#user1table tr td{
+	padding:10px;
+}
+#line{
+	padding-left:20px;
+	}
+#line tr td{
+	padding:10px;
+}
