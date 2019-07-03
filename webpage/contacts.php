@@ -13,17 +13,7 @@ include("config/db.php");
 
 </head>
 <body class="main">
-<div class="container"  style="background:white"> 
-<header class="navbar navbar-inverse navbar-fixed-top" style="background-color:#012454">
-  <div class="container">
-        <a class="navbar-brand  navbar-fixed-left" href="#" style="cursor: pointer"> INFiNiTi Software Solutions </a>
-		<ul class="nav navbar-header">
-      <li class="active">  <a href="index.php">&nbsp Home </a> </li>
-          <li><a href="about.php">&nbsp About us</a></li>
-     <li><a href="contacts.php ">&nbsp Contact us </a></li>
-    </ul>
-	</div>
-    </header>
+<div class="container"  style="background:white">
     <div class="row">
 	 <div class="col-md-8">
 	 <h2 class="heading">INFiNiTi<span class="active">Traveling Solutions</span> </h2>
