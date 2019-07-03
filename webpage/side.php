@@ -7,7 +7,7 @@
 	<div class="col-md-4"> 
 	 <div class="line">
 	  <div class="right">
-	   <span>  Latest News  </span>
+	   <span>  Quick links  </span>
 	  </div>
 	  </div>
 <br>
@@ -25,7 +25,7 @@
 	<div class=col-md-4> <img class="rounded" src="img/eleven.jpg" style="width: 100px;
 	height: 80px padding: 5px;" > 
 	</div>
-	<div class=col-md-8> <br> <span class="side_post"><a href="index.php"> Enquiry </a> </span> </div>
+	<div class=col-md-8> <br> <span class="side_post"><a href="index.php"> support </a> </span> </div>
 	</div>
  <br>
  	 <div class="line">
