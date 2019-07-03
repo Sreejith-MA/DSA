@@ -85,7 +85,7 @@ font-size: 17px
  {
 	 background:#012454;
 	 height:50px;
-	 width: 600px;
+	 width: 710px;
  }
 .left
  {
@@ -95,7 +95,7 @@ font-size: 17px
 	 height: 40px;
 	 width: 150px;
 	 margin-top: 5px;
-	 line-height: 20px;
+	 line-height: 10px;
 	 padding: 10px
  }
  
@@ -110,7 +110,7 @@ font-size: 20px
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: black;
+   background-color:#012454;
    color: white;
    text-align: center;
 }
